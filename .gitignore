@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/src/apps/MusicPlayer/assets
+#/src/apps/MusicPlayer/assets
 /.pnp
 .pnp.js
 
