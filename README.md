@@ -1,1 +1,1 @@
-### Live at my [Homepage](https://dev.geneordanza.com).
+### Live at my [Homepage](https://dev.geneordanza.net).
